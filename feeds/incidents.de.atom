@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://status.mvbuddies.de</id>
+    <title>MV Buddies Status</title>
+    <updated>2020-05-11T19:54:11.381Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="https://status.mvbuddies.de"/>
+    <link rel="self" href="https://status.mvbuddies.de/feeds/incidents.de.atom"/>
+    <subtitle>See the status of the MV Buddies Services</subtitle>
+</feed>
