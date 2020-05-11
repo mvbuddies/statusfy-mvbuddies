@@ -1,4 +1,97 @@
 {
   "title": "MV Buddies Status",
-  "description": "See the status of the MV Buddies Services"
+  "description": "See the status of the MV Buddies Services",
+  "links": {
+    "contact": "https://statusfy.co/es/contact",
+    "suport": "https://statusfy.co/es/support",
+    "home": "https://statusfy.co/es/"
+  },
+  "systems": {
+    "items": {
+      "webserver": {
+        "title": "Webserver"
+      },
+      "mailserver": {
+        "title": "Mailserver"
+      },
+      "netzwerkserver": {
+        "title": "Netzwerk Server"
+      },
+      "jonasserver": {
+        "title": "Jonas Server"
+      },
+      "p2p": {
+        "title": "P2P Filepizza"
+      },
+      "pad": {
+        "title": "MV Buddies Pad"
+      },
+      "urlshortener": {
+        "title": "Jonas URL Shortener"
+      },
+      "files": {
+        "title": "MV Buddies Files"
+      },
+      "cloud": {
+        "title": "MV Buddies Cloud"
+      },
+      "downloader": {
+        "title": "MV Buddies Downloader"
+      },
+      "sharex": {
+        "title": "ShareX"
+      },
+      "docs": {
+        "title": "MV Buddies Docs"
+      },
+      "uptime": {
+        "title": "MV Buddies Uptime"
+      },
+      "webmin": {
+        "title": "Webmin"
+      },
+      "kuwr": {
+        "title": "Kopf Über Wasser Register Backend"
+      },
+      "dns": {
+        "title": "DNS"
+      },
+      "proxy": {
+        "title": "Proxy"
+      },
+      "pi-hole": {
+        "title": "Pi-Hole"
+      },
+      "vpn": {
+        "title": "VPN"
+      },
+      "homepage": {
+        "title": "Homepage"
+      },
+      "blog": {
+        "title": "MV Buddies Blog"
+      },
+      "kuw": {
+        "title": "Kopf Über Wasser"
+      },
+      "punktzahlrechner": {
+        "title": "Punktzahlrechner"
+      },
+      "schulsammlung": {
+        "title": "Schulsammlung"
+      },
+      "streberblog": {
+        "title": "Der Streber Blog"
+      },
+      "gamerolesbot": {
+        "title": "GameRoles Bot"
+      },
+      "mvbuddiesbot": {
+        "title": "MV Buddies Bot"
+      },
+      "widgetbot": {
+        "title": "Widget Bot"
+      }
+    }
+  }
 }
