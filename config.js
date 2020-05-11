@@ -3,6 +3,7 @@ module.exports = {
   "name": "mv_buddies_status",
   "description": "See the status of the MV Buddies Services",
   "defaultLocale": "de",
+  "baseUrl": "https://status.mvbuddies.de",
   "locales": [
     {
       "code": "de",
