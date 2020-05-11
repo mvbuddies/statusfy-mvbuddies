@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.mvbuddies.de</id>
     <title>MV Buddies Status</title>
-    <updated>2020-05-11T20:31:37.258Z</updated>
+    <updated>2020-05-11T21:24:02.082Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.mvbuddies.de"/>
     <link rel="self" href="https://status.mvbuddies.de/feeds/incidents.de.atom"/>
     <subtitle>See the status of the MV Buddies Services</subtitle>
+    <entry>
+        <title type="html"><![CDATA[API Issues]]></title>
+        <id>https://status.mvbuddies.de/incidents/439e0c84</id>
+        <link href="https://status.mvbuddies.de/incidents/439e0c84"/>
+        <updated>2018-01-28T18:28:48.878Z</updated>
+        <summary type="html"><![CDATA[Our Files Conversion Process were responding slowly.]]></summary>
+        <content type="html"><![CDATA[<!-- Your General content -->
+<p>Our Files Conversion Process were responding slowly.</p>
+<!-- Definition of the Incident Updates -->
+<div class="update-block">
+          <div class="update-block-date">2018-01-28T22:28:48.878Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>Performance is back to normal and we'll continue to monitor.</p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2018-01-28T23:28:48.878Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Monitoring</div>
+            <div class="update-block-body">
+<p>The Conversion Process is back to normal and we'll continue to monitor.</p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2018-01-28T23:58:48.878Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>The Files Conversion System is back to normal and we'll continue to monitor.</p>
+</div></div></div>
+]]></content>
+    </entry>
 </feed>
