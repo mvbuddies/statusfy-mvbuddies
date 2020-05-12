@@ -4,7 +4,7 @@
         <title>MV Buddies Status</title>
         <link>https://status.mvbuddies.de</link>
         <description>See the status of the MV Buddies Services</description>
-        <lastBuildDate>Tue, 12 May 2020 17:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2020 20:14:47 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.mvbuddies.de/feeds/incidents.de.xml" rel="self" type="application/rss+xml"/>
@@ -29,6 +29,20 @@
             <div class="update-block-title">Update</div>
             <div class="update-block-body">
 <p>Backup ist fast abgeschlossen und wir beginnen mit der Server-Installation auf der neuen Festplatte.</p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2020-05-12T19:14:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>Server Installation ist fertig, das Backup wird gerade eingerichtet, damit alles wieder einwandfrei funktioniert.</p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2020-05-12T20:03:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Untersuchung</div>
+            <div class="update-block-body">
+<p>Aktuell scheinen die DNS Auflösungen eine andere zu sein. Wir versuchen diese zu erzwingen, damit es für uns keinen extra Aufwand hat, jeden Dienst neu zuzuordnen.</p>
 </div></div></div>
 ]]></content:encoded>
         </item>
