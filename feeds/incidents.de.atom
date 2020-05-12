@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.mvbuddies.de</id>
     <title>MV Buddies Status</title>
-    <updated>2020-05-12T21:18:02.425Z</updated>
+    <updated>2020-05-12T21:24:07.073Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.mvbuddies.de"/>
     <link rel="self" href="https://status.mvbuddies.de/feeds/incidents.de.atom"/>
